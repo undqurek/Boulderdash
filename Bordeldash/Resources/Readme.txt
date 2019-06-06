@@ -1,0 +1,1 @@
+Copy "maps" directory to application directory.
